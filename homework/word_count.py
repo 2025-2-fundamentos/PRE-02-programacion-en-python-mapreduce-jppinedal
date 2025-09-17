@@ -1,6 +1,6 @@
 """Taller evaluable"""
 
-# pylint: disable=broad-exception-raised
+# pylint: disable=broad-exception-raised1
 
 import fileinput
 import glob
